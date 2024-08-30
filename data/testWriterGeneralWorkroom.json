@@ -1,0 +1,33 @@
+{
+    "calendars": [
+        {
+            "color": "black",
+            "title": "New Calendar",
+            "events": []
+        },
+        {
+            "color": "red",
+            "title": "added calendar",
+            "events": [{
+                "end time": {
+                    "month": 7,
+                    "hour": 9,
+                    "year": 6,
+                    "day": 8,
+                    "minute": 10
+                },
+                "start time": {
+                    "month": 2,
+                    "hour": 4,
+                    "year": 1,
+                    "day": 3,
+                    "minute": 5
+                },
+                "description": "No description.",
+                "title": "New Event",
+                "priority": 0
+            }]
+        }
+    ],
+    "name": "My work room"
+}

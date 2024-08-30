@@ -1,0 +1,31 @@
+{
+    "calendars": [
+        {
+            "title": "New Calendar",
+            "events": []
+        },
+        {
+            "title": "New Calendar",
+            "events": [{
+                "end time": {
+                    "month": 2,
+                    "hour": 2,
+                    "year": 2005,
+                    "day": 2,
+                    "minute": 2
+                },
+                "start time": {
+                    "month": 3,
+                    "hour": 3,
+                    "year": 2004,
+                    "day": 3,
+                    "minute": 3
+                },
+                "description": "ack",
+                "title": "hello",
+                "priority": 3
+            }]
+        }
+    ],
+    "name": "Workroom"
+}
